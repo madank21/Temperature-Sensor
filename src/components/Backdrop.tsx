@@ -84,9 +84,11 @@ export function Backdrop() {
 
         <div className="absolute bottom-8 left-10 font-mono text-[9.5px] leading-relaxed tracking-[0.2em] text-dim">
           <div>LAT 51.5072°N · LON 0.1276°W</div>
+          
           <div className="mt-1">
             MODE <span className="text-sub">INDUSTRIAL IOT</span> · FW 2.3.1
           </div>
+          <div>Developed by Madan</div>
         </div>
 
         <div className="absolute bottom-8 right-10 flex items-center gap-3">
